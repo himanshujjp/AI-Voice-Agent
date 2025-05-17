@@ -1,7 +1,6 @@
 # 🤖 AI-Voice-Agent – AI-Powered Calling with Asterisk 📞  
 
-![AI Voice Agent Demo](https://media.licdn.com/dms/image/v2/D5622AQF3zK7iIjx4QA/feedshare-shrink_800/B56ZTX1bk3HoAs-/0/1738787897856?e=1747267200&v=beta&t=PnrHsBUV3F7RYowhfj5b8zgHGJi7nzyBwItLJlmmirQ)
-
+![AI Voice Agent Demo](https://media.licdn.com/dms/image/v2/D5622AQF3zK7iIjx4QA/feedshare-shrink_800/B56ZTX1bk3HoAs-/0/1738787897856?e=1750291200&v=beta&t=plF7SG60lay_E-DhHWe68tM-IHuw5hpdp4fGl5Hqiuk)
 **The Future of Voice Automation is Here!**
 
 Imagine if your phone system could speak like a human, answer questions intelligently, and handle customer requests—all without any human intervention. With **Asterisk** and modern **AI voice models**, that vision is now a reality.
